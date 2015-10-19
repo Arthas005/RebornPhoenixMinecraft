@@ -1,0 +1,57 @@
+[03:15:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[03:15:56] [Server thread/INFO]: Loading properties
+[03:15:56] [Server thread/INFO]: Default game type: SURVIVAL
+[03:15:56] [Server thread/INFO]: Generating keypair
+[03:15:56] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[03:15:56] [Server thread/INFO]: Using default channel type
+[03:15:56] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[03:15:57] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[03:15:57] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[03:15:57] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[03:15:57] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.3
+[03:15:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[03:15:57] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[03:15:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[03:15:57] [Server thread/INFO]: Permissions file successfully reloaded
+[03:15:57] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[03:15:57] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[03:15:57] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[03:15:57] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[03:15:57] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[03:15:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[03:15:57] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[03:15:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[03:15:57] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[03:15:57] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[03:15:57] [Server thread/INFO]: Preparing level "world"
+[03:15:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4489678980065516093)
+[03:15:58] [Server thread/INFO]: Preparing spawn area: 88%
+[03:15:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4489678980065516093)
+[03:15:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4489678980065516093)
+[03:15:59] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.3
+[03:15:59] [Server thread/INFO]: [ClearLag] Loading modules...
+[03:15:59] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[03:15:59] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[03:15:59] [Thread-9/INFO]: [ClearLag] Checking for updates...
+[03:15:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[03:15:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:15:59] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[03:15:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[03:15:59] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[03:15:59] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[03:15:59] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[03:15:59] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[03:15:59] [Server thread/INFO]: git-Bukkit-18fbb24 (MC: 1.8.8)
+[03:15:59] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[03:15:59] [Server thread/INFO]: Using locale en_US
+[03:15:59] [Thread-9/INFO]: [ClearLag] No updates found!
+[03:15:59] [Server thread/INFO]: Using locale en_US
+[03:15:59] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[03:15:59] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[03:15:59] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[03:15:59] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[03:15:59] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[03:15:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:15:59] [Server thread/INFO]: Done (2.434s)! For help, type "help" or "?"
+[03:15:59] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[03:15:59] [pool-3-thread-5/INFO]: [Vault] No new version available
