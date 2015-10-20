@@ -1,57 +1,351 @@
-[03:15:56] [Server thread/INFO]: Starting minecraft server version 1.8.8
-[03:15:56] [Server thread/INFO]: Loading properties
-[03:15:56] [Server thread/INFO]: Default game type: SURVIVAL
-[03:15:56] [Server thread/INFO]: Generating keypair
-[03:15:56] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
-[03:15:56] [Server thread/INFO]: Using default channel type
-[03:15:56] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
-[03:15:57] [Server thread/INFO]: [PermissionsEx] sql backend registered!
-[03:15:57] [Server thread/INFO]: [PermissionsEx] file backend registered!
-[03:15:57] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
-[03:15:57] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.3
-[03:15:57] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
-[03:15:57] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
-[03:15:57] [Server thread/INFO]: [PermissionsEx] Initializing file backend
-[03:15:57] [Server thread/INFO]: Permissions file successfully reloaded
-[03:15:57] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
-[03:15:57] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
-[03:15:57] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
-[03:15:57] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
-[03:15:57] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
-[03:15:57] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
-[03:15:57] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
-[03:15:57] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
-[03:15:57] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
-[03:15:57] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
-[03:15:57] [Server thread/INFO]: Preparing level "world"
-[03:15:57] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4489678980065516093)
-[03:15:58] [Server thread/INFO]: Preparing spawn area: 88%
-[03:15:58] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4489678980065516093)
-[03:15:58] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4489678980065516093)
-[03:15:59] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.3
-[03:15:59] [Server thread/INFO]: [ClearLag] Loading modules...
-[03:15:59] [Server thread/INFO]: [ClearLag] Modules have been loaded!
-[03:15:59] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
-[03:15:59] [Thread-9/INFO]: [ClearLag] Checking for updates...
-[03:15:59] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
-[03:15:59] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[03:15:59] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
-[03:15:59] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
-[03:15:59] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
-[03:15:59] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
-[03:15:59] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
-[03:15:59] [Server thread/INFO]: Bukkit version format changed. Version not checked.
-[03:15:59] [Server thread/INFO]: git-Bukkit-18fbb24 (MC: 1.8.8)
-[03:15:59] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
-[03:15:59] [Server thread/INFO]: Using locale en_US
-[03:15:59] [Thread-9/INFO]: [ClearLag] No updates found!
-[03:15:59] [Server thread/INFO]: Using locale en_US
-[03:15:59] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
-[03:15:59] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
-[03:15:59] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
-[03:15:59] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
-[03:15:59] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
-[03:15:59] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[03:15:59] [Server thread/INFO]: Done (2.434s)! For help, type "help" or "?"
-[03:15:59] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
-[03:15:59] [pool-3-thread-5/INFO]: [Vault] No new version available
+[12:46:27] [Server thread/INFO]: Starting minecraft server version 1.8.8
+[12:46:27] [Server thread/INFO]: Loading properties
+[12:46:27] [Server thread/INFO]: Default game type: SURVIVAL
+[12:46:27] [Server thread/INFO]: Generating keypair
+[12:46:27] [Server thread/INFO]: Starting Minecraft server on 192.168.1.100:25565
+[12:46:27] [Server thread/INFO]: Using default channel type
+[12:46:28] [Server thread/INFO]: This server is running CraftBukkit version git-Bukkit-18fbb24 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[12:46:28] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[12:46:28] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[12:46:28] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[12:46:28] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.3
+[12:46:28] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[12:46:28] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[12:46:28] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[12:46:28] [Server thread/INFO]: Permissions file successfully reloaded
+[12:46:28] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[12:46:28] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[12:46:28] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[12:46:28] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[12:46:28] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[12:46:28] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[12:46:28] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[12:46:28] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[12:46:28] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[12:46:28] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[12:46:28] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[12:46:28] [Server thread/INFO]: Preparing level "world"
+[12:46:28] [Server thread/INFO]: Preparing start region for level 0 (Seed: 4489678980065516093)
+[12:46:29] [Server thread/INFO]: Preparing start region for level 1 (Seed: 4489678980065516093)
+[12:46:30] [Server thread/INFO]: Preparing start region for level 2 (Seed: 4489678980065516093)
+[12:46:30] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.3
+[12:46:30] [Server thread/INFO]: [ClearLag] Loading modules...
+[12:46:30] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[12:46:30] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[12:46:30] [Thread-9/INFO]: [ClearLag] Checking for updates...
+[12:46:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[12:46:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:46:30] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[12:46:30] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[12:46:30] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[12:46:30] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[12:46:30] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+[12:46:30] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 50 Z: 0 P: 0 Y: 0 
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'world_the_end' is Located at: world_the_end:0.00,64.00,0.00:0.00:0.00
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[12:46:30] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+[12:46:30] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 4489678980065516093
+[12:46:30] [Server thread/INFO]: [Multiverse-Core] 3 - World(s) loaded.
+[12:46:30] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[12:46:30] [Thread-9/INFO]: [ClearLag] No updates found!
+[12:46:30] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[12:46:30] [Server thread/INFO]: git-Bukkit-18fbb24 (MC: 1.8.8)
+[12:46:30] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[12:46:31] [Server thread/INFO]: Using locale en_US
+[12:46:31] [Server thread/INFO]: Using locale en_US
+[12:46:31] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[12:46:31] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[12:46:31] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[12:46:31] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[12:46:31] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[12:46:31] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:46:31] [Server thread/INFO]: Done (2.866s)! For help, type "help" or "?"
+[12:46:31] [pool-3-thread-5/INFO]: [Vault] Checking for Updates ... 
+[12:46:31] [pool-3-thread-5/INFO]: [Vault] No new version available
+[12:46:38] [User Authenticator #1/INFO]: UUID of player Mr_Legacy005 is 0cf9ac36-a803-491f-8300-8963cb57b278
+[12:46:38] [Server thread/INFO]: Mr_Legacy005[/192.168.1.100:63091] logged in with entity id 260 at ([world]-227.3381937954877, 66.15473179307465, 836.1726506861377)
+[12:46:44] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp
+[12:46:47] [Server thread/INFO]: Mr_Legacy005 issued server command: /help
+[12:46:56] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core
+[12:47:06] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvcreate
+[12:47:23] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvcreate world normal
+[12:47:35] [Server thread/INFO]: Mr_Legacy005 issued server command: /mv create survival normal
+[12:47:35] [Server thread/INFO]: Mr_Legacy005: Starting creation of world 'survival'...[m
+[12:47:35] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL
+[12:47:36] [Server thread/INFO]: Preparing start region for level 3 (Seed: -2483239911164907620)
+[12:47:37] [Server thread/INFO]: Preparing spawn area for survival, 4%
+[12:47:38] [Server thread/INFO]: Preparing spawn area for survival, 12%
+[12:47:39] [Server thread/INFO]: Preparing spawn area for survival, 24%
+[12:47:40] [Server thread/INFO]: Preparing spawn area for survival, 40%
+[12:47:41] [Server thread/INFO]: Preparing spawn area for survival, 53%
+[12:47:42] [Server thread/INFO]: Preparing spawn area for survival, 69%
+[12:47:43] [Server thread/INFO]: Preparing spawn area for survival, 85%
+[12:47:44] [Server thread/INFO]: Preparing spawn area for survival, 97%
+[12:47:44] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[12:47:44] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+[12:47:44] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'survival' is Located at: survival:0.00,104.00,0.00:0.00:0.00
+[12:47:45] [Server thread/INFO]: Mr_Legacy005: Complete![m
+[12:47:45] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 9190ms behind, skipping 183 tick(s)
+[12:47:49] [Server thread/INFO]: Mr_Legacy005 issued server command: /warp survival
+[12:48:06] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core2
+[12:48:11] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core 2
+[12:48:20] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvlist
+[12:48:24] [Server thread/INFO]: Mr_Legacy005 issued server command: /survival
+[12:48:26] [Server thread/INFO]: Mr_Legacy005 issued server command: /c
+[12:48:28] [Server thread/INFO]: Mr_Legacy005 issued server command: /creative
+[12:48:36] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core 3
+[12:48:46] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core 4
+[12:48:55] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core 5
+[12:49:04] [Server thread/INFO]: Mr_Legacy005 issued server command: /help multiverse-core 6
+[12:49:16] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvspawn
+[12:50:28] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[12:51:35] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvcreate Spawn normal -t flat
+[12:51:35] [Server thread/INFO]: Mr_Legacy005: Starting creation of world 'Spawn'...[m
+[12:51:35] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: FLAT
+[12:51:35] [Server thread/INFO]: Preparing start region for level 4 (Seed: -1228898792475878992)
+[12:51:36] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[12:51:36] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 0 Z: 0 P: 0 Y: 0 
+[12:51:36] [Server thread/INFO]: [Multiverse-Core] New Spawn for 'Spawn' is Located at: Spawn:1.50,4.00,0.50:0.00:0.00
+[12:51:36] [Server thread/INFO]: Mr_Legacy005: Complete![m
+[12:51:41] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvlist
+[12:51:57] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[12:53:59] [Server thread/INFO]: Mr_Legacy005 issued server command: //set water
+[12:54:11] [Server thread/INFO]: Mr_Legacy005 issued server command: //set air
+[12:54:39] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp spawn
+[12:54:56] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[12:55:02] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp spawn'
+[12:55:09] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp spawn
+[12:55:13] [Server thread/INFO]: Mr_Legacy005 issued server command: /setspawn
+[12:55:15] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[12:55:21] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp minigames
+[12:55:26] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp survival
+[12:55:30] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[12:55:37] [Server thread/INFO]: Mr_Legacy005 issued server command: /butcher
+[12:55:44] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall 1000
+[12:56:09] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[12:56:47] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stone brick
+[12:56:51] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[12:56:58] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall slime
+[12:57:03] [Server thread/INFO]: Mr_Legacy005 issued server command: /kill all slime
+[12:57:29] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stone brick
+[12:57:34] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[12:57:55] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall slime
+[12:59:15] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[12:59:34] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[12:59:59] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[13:00:05] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall slime
+[13:00:49] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[13:01:19] [Server thread/INFO]: Mr_Legacy005 issued server command: //set stonebrick
+[13:01:27] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall slime
+[13:02:01] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:02:17] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[13:19:51] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:21:16] [Server thread/INFO]: Mr_Legacy005 issued server command: /killall slime
+[13:26:33] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate SurvivalPortalSpawn
+[13:26:41] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate survivalportal
+[13:27:26] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate Survival
+[13:27:33] [Server thread/INFO]: Mr_Legacy005 issued server command: /MVh
+[13:27:47] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvh 2
+[13:28:06] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvh 3
+[13:28:14] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvh 4
+[13:28:22] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvh 6
+[13:28:31] [Server thread/INFO]: Mr_Legacy005 issued server command: /mv env
+[13:28:39] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp
+[13:29:25] [Server thread/INFO]: CONSOLE: [0;31;1mPlease note that this command is not supported and may cause issues when using some plugins.[m
+[13:29:25] [Server thread/INFO]: CONSOLE: [0;31;1mIf you encounter any issues please use the /stop command to restart your server.[m
+[13:29:25] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[13:29:25] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[13:29:25] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[13:29:25] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[13:29:25] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[13:29:25] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
+[13:29:25] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:29:25] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[13:29:25] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[13:29:25] [Server thread/INFO]: Permissions file successfully reloaded
+[13:29:25] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[13:29:25] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.3
+[13:29:25] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[13:29:25] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[13:29:25] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[13:29:25] [Server thread/INFO]: [PermissionsEx] sql backend registered!
+[13:29:25] [Server thread/INFO]: [PermissionsEx] file backend registered!
+[13:29:25] [Server thread/INFO]: [Vault] Loading Vault v1.5.6-b49
+[13:29:25] [Server thread/INFO]: [ClearLag] Loading ClearLag v2.8.3
+[13:29:25] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v5.6.3
+[13:29:25] [Server thread/INFO]: [PermissionsEx] Loading PermissionsEx v1.20.4
+[13:29:25] [Server thread/INFO]: [PermissionsEx] Initializing file backend
+[13:29:25] [Server thread/INFO]: Permissions file successfully reloaded
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[13:29:25] [Server thread/INFO]: [Multiverse-Portals] Loading Multiverse-Portals v2.4-b548
+[13:29:25] [Server thread/INFO]: [Essentials] Loading Essentials vTeamCity
+[13:29:25] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat vTeamCity
+[13:29:25] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect vTeamCity
+[13:29:25] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[13:29:25] [Server thread/INFO]: [Vault] Enabling Vault v1.5.6-b49
+[13:29:25] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[13:29:25] [Server thread/INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[13:29:25] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[13:29:25] [Server thread/INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[13:29:25] [Server thread/INFO]: [Vault] Enabled Version 1.5.6-b49
+[13:29:25] [Server thread/INFO]: [ClearLag] Enabling ClearLag v2.8.3
+[13:29:25] [Server thread/INFO]: [ClearLag] Loading modules...
+[13:29:25] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[13:29:25] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[13:29:25] [Thread-14/INFO]: [ClearLag] Checking for updates...
+[13:29:25] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v5.6.3
+[13:29:25] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[13:29:25] [Server thread/INFO]: [PermissionsEx] Enabling PermissionsEx v1.20.4
+[13:29:25] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:29:25] [Server thread/INFO]: [Vault][Permission] PermissionsEx hooked.
+[13:29:25] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[13:29:25] [Server thread/INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[13:29:25] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: 4489678980065516093
+[13:29:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 4489678980065516093
+[13:29:26] [Server thread/WARN]: [Multiverse-Core] Spawn location from world.dat file was unsafe. Adjusting...
+[13:29:26] [Server thread/WARN]: [Multiverse-Core] Original Location: X: 0 Y: 64 Z: 0 P: 0 Y: 0 
+[13:29:26] [Server thread/ERROR]: [Multiverse-Core] New safe spawn NOT found!!!
+[13:29:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 4489678980065516093
+[13:29:26] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'survival' - Env: NORMAL - Type: NORMAL & seed: -2483239911164907620
+[13:29:27] [Server thread/INFO]: [Multiverse-Core] Loading World & Settings - 'Spawn' - Env: NORMAL - Type: FLAT & seed: -1228898792475878992
+[13:29:27] [Server thread/INFO]: [Multiverse-Core] 5 - World(s) loaded.
+[13:29:27] [Server thread/INFO]: [Multiverse-Portals] Enabling Multiverse-Portals v2.4-b548
+[13:29:27] [Server thread/INFO]: [Multiverse-Portals] - Version 2.4-b548 Enabled - By Rigby and fernferret
+[13:29:27] [Server thread/INFO]: [Multiverse-Portals]  0 - Portals(s) loaded
+[13:29:27] [Server thread/INFO]: [Essentials] Enabling Essentials vTeamCity
+[13:29:27] [Server thread/INFO]: Bukkit version format changed. Version not checked.
+[13:29:27] [Server thread/INFO]: git-Bukkit-18fbb24 (MC: 1.8.8)
+[13:29:27] [Server thread/INFO]: 1.8.8-R0.1-SNAPSHOT
+[13:29:27] [Server thread/INFO]: Using locale en_US
+[13:29:27] [Server thread/INFO]: Using locale en_US
+[13:29:27] [Server thread/INFO]: [Vault][Economy] Essentials Economy hooked.
+[13:29:27] [Server thread/INFO]: Essentials: Using PermissionsEx based permissions.
+[13:29:27] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat vTeamCity
+[13:29:27] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect vTeamCity
+[13:29:27] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[13:29:27] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:29:28] [Server thread/INFO]: CONSOLE: [0;32;1mReload complete.[m
+[13:29:28] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2822ms behind, skipping 56 tick(s)
+[13:29:28] [pool-3-thread-9/INFO]: [Vault] Checking for Updates ... 
+[13:29:28] [pool-3-thread-9/INFO]: [Vault] No new version available
+[13:29:28] [Thread-14/INFO]: [ClearLag] No updates found!
+[13:29:45] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp
+[13:29:49] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp
+[13:30:02] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate Survival
+[13:30:02] [Server thread/INFO]: WEAPI
+[13:30:05] [Server thread/WARN]: [WorldEdit] No compatible nms block class found.
+[13:30:17] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate survivalFromSpawn
+[13:30:17] [Server thread/INFO]: WEAPI
+[13:30:33] [Server thread/INFO]: Mr_Legacy005 issued server command: //set 9
+[13:31:00] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:31:09] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp Survival
+[13:31:25] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvsetspawn
+[13:31:29] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[13:31:42] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[13:31:55] [Server thread/INFO]: Mr_Legacy005 issued server command: /setspawn
+[13:32:03] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp survival
+[13:32:36] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate SurvivalToSpawn
+[13:32:36] [Server thread/INFO]: WEAPI
+[13:32:47] [Server thread/INFO]: Mr_Legacy005 issued server command: //set 9
+[13:34:15] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp list
+[13:34:21] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpselect
+[13:34:44] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p;survivalFromSpawn
+[13:34:44] [Server thread/WARN]: [Multiverse-Core] Portal SurvivalToSpawn has an invalid DESTINATION!
+[13:35:23] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p;survivalFromSpawn
+[13:35:23] [Server thread/WARN]: [Multiverse-Core] Portal SurvivalToSpawn has an invalid DESTINATION!
+[13:35:32] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[13:35:45] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select survivalFromSpawn
+[13:36:13] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p;SurvuvalToSpawn
+[13:36:13] [Server thread/WARN]: [Multiverse-Core] Portal survivalFromSpawn has an invalid DESTINATION!
+[13:38:08] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select survivalFromSpawn
+[13:38:25] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p:SurvivalToSpawn
+[13:38:33] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:38:38] [Server thread/INFO]: Mr_Legacy005 issued server command: /toggledownfall
+[13:38:38] [Server thread/INFO]: [Mr_Legacy005: Toggled downfall]
+[13:38:51] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select SurvivalToSpawn
+[13:39:10] [Server thread/INFO]: Mr_Legacy005 issued server command: /MVP modify dest p:survivalFromSpawn
+[13:40:25] [Server thread/INFO]: Mr_Legacy005 issued server command: //set air
+[13:40:46] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp list
+[13:40:52] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp delete
+[13:41:04] [Server thread/INFO]: Mr_Legacy005 issued server command: /mv remove SurvivalToSpawn
+[13:41:04] [Server thread/INFO]: [Multiverse-Core] Multiverse does not know about SurvivalToSpawn and it's not loaded by Bukkit.
+[13:41:12] [Server thread/INFO]: Mr_Legacy005 issued server command: /mpv select
+[13:41:16] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select
+[13:41:20] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp delete
+[13:41:22] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp remove
+[13:41:38] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp remove SurvivalTo Spawn
+[13:41:51] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp remove SurvivalToSpawn
+[13:42:30] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate SurvivalToSpawn
+[13:42:30] [Server thread/INFO]: WEAPI
+[13:42:44] [Server thread/INFO]: Mr_Legacy005 issued server command: //set 9
+[13:42:52] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpselect
+[13:43:03] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p:survivalFromSpawn
+[13:43:21] [Server thread/INFO]: Mr_Legacy005 issued server command: /ay
+[13:43:23] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:43:31] [Server thread/INFO]: Mr_Legacy005 issued server command: /mpv remove survivalFromSpawn
+[13:43:42] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp remove survivalFromSpawn
+[13:43:52] [Server thread/INFO]: Mr_Legacy005 issued server command: //set air
+[13:44:21] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvpcreate SurvivalFromSpawn
+[13:44:21] [Server thread/INFO]: WEAPI
+[13:44:31] [Server thread/INFO]: Mr_Legacy005 issued server command: //set 9
+[13:45:00] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select
+[13:45:15] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p:SurvivalToSpawn
+[13:45:36] [Server thread/INFO]: Mr_Legacy005 issued server command: /mpv select
+[13:45:39] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select
+[13:45:50] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp select SurvivalToSpawn
+[13:46:02] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp Modify dest p:SurvivalFromSpawn
+[13:46:24] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvp modify dest p:SurvivalFromSpawn
+[13:47:24] [Server thread/INFO]: Mr_Legacy005 issued server command: /night
+[13:51:12] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:51:40] [Server thread/INFO]: Mr_Legacy005 issued server command: /world
+[13:51:55] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvtp world
+[13:52:49] [Server thread/INFO]: Mr_Legacy005 issued server command: /mvsetspawn
+[13:58:10] [Server thread/INFO]: Mr_Legacy005 issued server command: /spawn
+[13:58:13] [Server thread/INFO]: Mr_Legacy005 issued server command: /day
+[13:58:17] [Server thread/INFO]: Mr_Legacy005 issued server command: /toggledownfall
+[13:58:17] [Server thread/INFO]: [Mr_Legacy005: Toggled downfall]
+[13:59:57] [Server thread/INFO]: Stopping the server
+[13:59:57] [Server thread/INFO]: Stopping server
+[13:59:57] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn vTeamCity
+[13:59:57] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect vTeamCity
+[13:59:57] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat vTeamCity
+[13:59:57] [Server thread/INFO]: [Essentials] Disabling Essentials vTeamCity
+[13:59:57] [Server thread/INFO]: [Vault][Economy] Essentials Economy unhooked.
+[13:59:57] [Server thread/INFO]: [Multiverse-Portals] Disabling Multiverse-Portals v2.4-b548
+[13:59:57] [Server thread/INFO]: [Multiverse-Core] Disabling Multiverse-Core v2.4-b527
+[13:59:57] [Server thread/INFO]: [Multiverse-Core] - Disabled
+[13:59:57] [Server thread/INFO]: [PermissionsEx] Disabling PermissionsEx v1.20.4
+[13:59:57] [Server thread/INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[13:59:57] [Server thread/INFO]: [Vault][Permission] PermissionsEx un-hooked.
+[13:59:57] [Server thread/INFO]: [Vault][Chat] PermissionsEx_Chat un-hooked.
+[13:59:57] [Server thread/INFO]: Permissions file successfully reloaded
+[13:59:57] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v5.6.3
+[13:59:57] [Server thread/INFO]: [ClearLag] Disabling ClearLag v2.8.3
+[13:59:57] [Server thread/INFO]: [ClearLag] Nullifying module fields..
+[13:59:57] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[13:59:57] [Server thread/INFO]: [Vault] Disabling Vault v1.5.6-b49
+[13:59:57] [Server thread/INFO]: Saving players
+[13:59:57] [Server thread/INFO]: Mr_Legacy005 lost connection: Server closed
+[13:59:57] [Server thread/INFO]: Mr_Legacy005 left the game.
+[13:59:57] [Server thread/INFO]: Saving worlds
+[13:59:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[13:59:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[13:59:57] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End
+[13:59:57] [Server thread/INFO]: Saving chunks for level 'survival'/Overworld
+[13:59:57] [Server thread/INFO]: Saving chunks for level 'Spawn'/Overworld

@@ -1,20 +1,22 @@
 lastAccountName: Mr_Legacy005
 timestamps:
-  login: 1445238477963
-  lastteleport: 1445238313408
+  login: 1445359598809
+  lastteleport: 1445363890711
   logout: 1445238486908
 ipAddress: 192.168.1.100
 lastlocation:
   world: world
-  x: -241.89863112324704
-  y: 64.0
-  z: 843.7167037388887
-  yaw: 277.63794
-  pitch: 15.450042
+  x: -268.30457444442436
+  y: 69.16493902079542
+  z: 834.7094222752904
+  yaw: -17.700806
+  pitch: 4.199976
 logoutlocation:
   world: world
   x: -225.45241859785517
   y: 66.15473179307465
   z: 850.1144964298335
-  yaw: 179.98697
-  pitch: 16.650085
+  yaw: 180.88696
+  pitch: 11.250087
+afk: false
+money: '0.0'

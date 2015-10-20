@@ -1,7 +1,7 @@
 groups:
   Guest:
     default: true
-    prefix: '&f[&5MEMBER&f] '
+    prefix: '&f[MEMBER] &f'
     permissions:
     - essentials.afk
     - essentials.spawn
@@ -75,7 +75,7 @@ groups:
     - donator
   Owner:
     default: false
-    prefix: '&f[&e&lOWNER&f] '
+    prefix: '&1[OWNER] &6'
     permissions:
     - '*'
     - essentials.*
@@ -92,8 +92,62 @@ groups:
     - lagg.*
     inheritance:
     - moderator
+  Dev:
+    default: false
+    prefix: '&4[DEVELOPER] &6'
+    permissions:
+    - '*'
+    - essentials.*
+    - ls.admin
+    - essentials.god.*
+    - essentials.signs.break.buy
+    - essentials.signs.break.free
+    - essentials.signs.create.free
+    - essentials.signs.create.warp
+    - essentials.signs.break.warp
+    - essentials.signs.break.disposal
+    - essentials.signs.create.disposal
+    - vault.admin
+    - lagg.*
+    inheritance:
+    - moderator
+  COS:
+    default: true
+    prefix: '&d[Chief of Staff] &6'
+    permissions:
+    - essentials.afk
+    - essentials.spawn
+    - essentials.home
+    - essentials.sethome
+    - essentials.rules
+    - essentials.motd
+    - essentials.msg.*
+    - essentials.help
+    - essentials.suicide
+    - essentials.signs.use.free
+    - essentials.signs.use.buy
+    - essentials.signs.use.warp
+    - essentials.signs.use.disposal
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - essentials.mail.*
+    - essentials.tp
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpadeny
 users:
     Mr_Legacy005:
+        group:
+        - Dev
+        permissions:
+        - permissions.*
+    Hadrian_Stark:
+        group:
+        - COS
+        permissions:
+        - permissions.*
+    Vartax:
         group:
         - Owner
         permissions:

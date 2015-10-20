@@ -1,0 +1,21 @@
+portals:
+  SurvivalToSpawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Mr_Legacy005
+    location: -26.0,74.0,-34.0:-21.0,81.0,-34.0
+    world: survival
+    destination: p:SurvivalFromSpawn
+  SurvivalFromSpawn:
+    entryfee:
+      currency: -1
+      amount: 0.0
+    safeteleport: true
+    teleportnonplayers: false
+    owner: Mr_Legacy005
+    location: -13.0,8.0,78.0:-8.0,15.0,78.0
+    world: Spawn
+    destination: p:SurvivalToSpawn
